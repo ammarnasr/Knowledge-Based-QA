@@ -1,3 +1,14 @@
+---
+title: Sentence Similarity
+emoji: 🏃
+colorFrom: green
+colorTo: indigo
+sdk: streamlit
+sdk_version: 1.21.0
+app_file: app.py
+pinned: false
+license: openrail
+---
 ## Knowledge-Based Question Answering System
 
 This repository contains code for a knowledge-based question answering system service. 
