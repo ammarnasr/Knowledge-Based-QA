@@ -1,0 +1,10 @@
+transformers
+peft
+accelerate
+datasets
+pandas
+numpy
+sentence-transformers
+torch
+torchvision
+matplotlib
